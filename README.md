@@ -42,7 +42,7 @@ python manage.py runserver
 ```
 # API Endpoints
 
-GET /api/todos/: Get a list of todos.
-POST /api/todos/: Create a new todo.
-PUT /api/todos/: Update a todo.
-DELETE /api/todos/: Delete a todo.
+- GET /api/todos/: Get a list of todos.
+- POST /api/todos/: Create a new todo.
+- PUT /api/todos/: Update a todo.
+- DELETE /api/todos/: Delete a todo.
