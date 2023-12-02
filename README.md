@@ -7,10 +7,10 @@ The Todos app is a simple task management application designed to help users org
 This project is to be paired with React as front end. it will be in next realese.
 
 ## Key Features
-Create Tasks: Quickly add new tasks with titles and optional descriptions.
-Update Tasks: Easily modify task details, such as titles and descriptions.
-Mark as Done: Track your progress by marking tasks as completed.
-RESTful API: Access your tasks programmatically through a RESTful API for seamless integration with other applications.
+- Create Tasks: Quickly add new tasks with titles and optional descriptions.
+- Update Tasks: Easily modify task details, such as titles and descriptions.
+- Mark as Done: Track your progress by marking tasks as completed.
+- RESTful API: Access your tasks programmatically through a RESTful API for seamless integration with other applications.
 
 
 ## Technologies Used
